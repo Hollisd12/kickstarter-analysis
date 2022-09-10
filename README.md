@@ -5,4 +5,4 @@ This project examines global kickstarter campaigns to better understand campaign
 
 ## Category Outcomes Analysis 
 We found that in the US, Theater campaigns are the most common campaign. In the US we find that there were 525 successful kickstarters.
-![Parent Category Analysis}(Parent Category Analysis.png)
+![Parent Category Analysis](Parent Category Analysis.png)
